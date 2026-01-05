@@ -25,11 +25,12 @@ Front-End Engineer with 4+ years of hands-on experience building and shipping da
 ### **Katt Interior**
 *Next.js, TypeScript, Supabase, Tailwind CSS, Radix UI*  
 
-- Built and shipped a production Next.js platform for a real client, from initial setup to deployment  
-- Focused heavily on performance for image-heavy pages using SSR, ISR, and careful image optimization  
-- Implemented authentication and authorization with Supabase Auth and Row-Level Security (RLS)  
-- Designed and developed a custom drag-and-drop blog editor so non-technical users can manage content easily  
-- Set up SEO foundations including JSON-LD structured data, Open Graph metadata, and sitemap generation  
+- Delivered a production-ready Next.js platform for a real client, owning the project from initial setup through deployment  
+- Optimized performance for image-heavy pages using SSR, ISR, and deliberate image optimization strategies  
+- Implemented secure authentication and authorization with Supabase Auth and database-level Row-Level Security (RLS)  
+- Designed and built a custom drag-and-drop blog editor that enables non-technical users to manage content independently  
+- Established strong SEO foundations, including JSON-LD structured data, metadata, Open Graph tags, and automated sitemap generation  
+- Wrote and maintained unit, integration, and browser-level tests to ensure long-term stability of core features
 
 GitHub: https://github.com/edjulsin/kattinterior  
 Live: https://kattinterior.vercel.app/
@@ -50,9 +51,10 @@ Live: https://krypton-navy.vercel.app/
 ---
 
 ## Engineering Focus
-- Writing clear, testable and maintainable UI architecture  
-- Performance-first thinking for data-heavy interfaces
-- Building systems that scale without becoming hard to reason about
+- Designing clear, testable, and maintainable UI architecture  
+- Applying functional programming principles and immutable state patterns  
+- Performance-first thinking, especially for data-heavy and interactive interfaces  
+- Building systems that scale in complexity without becoming hard to reason about
 
 ---
 
@@ -62,7 +64,7 @@ Live: https://krypton-navy.vercel.app/
 *2020 – Present*  
 
 - Worked on multiple production front-end projects from early development through release  
-- Made day-to-day architectural decisions around state management, rendering strategy, and performance  
+- Made day-to-day architectural decisions around design, state management, rendering strategy, and performance  
 - Worked closely with non-technical clients during initial design and development to translate requirements into practical UI solutions
 - Collaborated asynchronously in remote setups using Git-based workflows and code reviews  
 
