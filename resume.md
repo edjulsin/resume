@@ -12,7 +12,7 @@ Front-End Engineer with 4+ years of experience building data-driven web applicat
 
 ## Technical Skills
 - **Frontend:** React, Next.js (App Router), TypeScript, JavaScript (ES6+), HTML5 Canvas  
-- **State & Data:** RxJS, Context, complex state modeling, reactive data flows  
+- **State & Data:** RxJS, complex state modeling, reactive data flows  
 - **UI & Visualization:** D3.js, Radix UI, Tailwind CSS/SASS, Figma, responsive design  
 - **Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker, Express  
 - **Tooling & Quality:** Git, GitHub Actions, Vercel, Vite, Webpack, Vitest, SEO (JSON-LD, Core Web Vitals), accessibility, performance tuning  
@@ -30,7 +30,7 @@ Front-End Engineer with 4+ years of experience building data-driven web applicat
 GitHub: [Katt Interior](https://github.com/edjulsin/kattinterior) · Live: [kattinterior.vercel.app](https://kattinterior.vercel.app/)  
 
 ### **Krypton** — *React, RxJS, D3.js, Webpack, HTML5 Canvas*  
-- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams using RxJS.  
+- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams.  
 - Implemented lazy loading, drag/zoom, and multi-chart support using D3.js for smooth interaction with thousands of data points across time zones.  
 - Built custom UI primitives and a date/time picker for dynamic chart exploration.  
 
@@ -53,3 +53,8 @@ GitHub: [Krypton](https://github.com/edjulsin/krypton) · Live: [krypton-navy.ve
 - Focus on real performance bottlenecks before optimizing.  
 - Build systems that scale in complexity without becoming hard to understand.  
 - Prioritize readable, maintainable code over heavy reliance on hooks or third-party abstractions.  
+
+---
+
+## Languages
+- Indonesian (native), English (professional proficiency)
