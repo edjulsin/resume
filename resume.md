@@ -1,6 +1,6 @@
 # Edwin Julian Sinaga
 **Front-End Engineer (React / Next.js / TypeScript)**  
-Indonesia · Open to Remote  
+Indonesia · Remote
 📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev
 
 ---
