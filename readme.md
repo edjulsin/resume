@@ -1,60 +1,44 @@
 # Edwin Julian Sinaga
-**Front-End Engineer (React / Next.js / TypeScript)**  
-Indonesia · Remote
-📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev
+**Front-End Engineer (React · Next.js · TypeScript)**  
+Indonesia · Remote · English (Professional)  
+📧 [edjulsin@gmail.com](mailto:edjulsin@gmail.com) · [github.com/edjulsin](https://github.com/edjulsin) · [edjulsin.dev](https://edjulsin.vercel.app)
 
 ---
 
 ## Summary
-Front-End Engineer with 4+ years of experience building data-driven web applications using React, Next.js, and TypeScript. Skilled at designing maintainable, performant UI architectures and solving complex problems at the intersection of state, data flow, and user experience. Comfortable owning features end-to-end and thriving in remote, asynchronous teams.  
+Front-End Engineer with **4+ years of experience** building performant, data-driven web applications using React, Next.js, and TypeScript. Strong focus on **clean architecture, performance, and UX**, with experience delivering end-to-end features in remote settings.
 
 ---
 
 ## Technical Skills
-- **Frontend:** React, Next.js (App Router), TypeScript, JavaScript (ES6+), HTML5 Canvas  
-- **State & Data:** RxJS, complex state modeling, reactive data flows  
-- **UI & Visualization:** D3.js, Radix UI, Tailwind CSS/SASS, Figma, responsive design  
-- **Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker, Express  
-- **Tooling & Quality:** Git, GitHub Actions, Vercel, Vite, Webpack, Vitest, SEO (JSON-LD, Core Web Vitals), accessibility, performance tuning  
+**Frontend:** React, Next.js (App Router), TypeScript, JavaScript, HTML5 Canvas, RxJS  
+**UI & Visualization:** D3.js, Tailwind CSS, SASS, Radix UI
+**Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker, Vercel  
+**Tooling & Quality:** Git, GitHub Actions, Vite, Webpack, Vitest, SEO (JSON-LD, Core Web Vitals)
 
 ---
 
 ## Selected Projects
 
-### **Katt Interior** — *Next.js, TypeScript, Supabase, Tailwind CSS, Radix UI*  
-- Delivered a production-ready platform for a real client, owning architecture, authentication, CI/CD, and deployment.  
-- Built a custom drag-and-drop blog editor enabling non-technical users to manage content independently.  
-- Optimized image-heavy pages using SSR, ISR, and deliberate image strategies for fast load times.  
-- Ensured long-term stability with unit, integration, and browser-level tests and strong SEO foundations.  
+### **Katt Interior** ([GitHub](https://github.com/edjulsin/kattinterior) · [Live](https://kattinterior.vercel.app))  
+*Next.js, TypeScript, Supabase, Tailwind CSS*
 
-GitHub: [Katt Interior](https://github.com/edjulsin/kattinterior) · Live: [kattinterior.vercel.app](https://kattinterior.vercel.app/)  
+- Built a production-ready platform, owning architecture, auth, CI/CD, SEO, testing, and deployment.
+- Created a custom drag-and-drop blog editor for non-technical users.
+- Optimized image-heavy pages using compression and SSR/ISR to improve load times.
 
-### **Krypton** — *React, RxJS, D3.js, Webpack, HTML5 Canvas*  
-- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams using RxJS websocket.  
-- Implemented lazy loading, drag/zoom, and multi-chart support using D3.js for smooth interaction with thousands of data points across time zones.  
-- Built custom UI primitives and a date/time picker for dynamic chart exploration.  
+### **Krypton** ([GitHub](https://github.com/edjulsin/krypton) · [Live](https://krypton-navy.vercel.app))  
+*React, RxJS, D3.js, HTML5 Canvas*
 
-GitHub: [Krypton](https://github.com/edjulsin/krypton) · Live: [krypton-navy.vercel.app](https://krypton-navy.vercel.app/)  
+- Developed a real-time crypto dashboard with TradingView-style interactive charts.
+- Handled live data streams using RxJS, lazy loading, multi-chart drag/zoom, and smooth interaction with thousands of data points.
 
 ---
 
 ## Experience
-
-### **Front-End Engineer — Independent / Contract** *(2020 – Present)*  
-- Contributed to multiple production front-end and full-stack projects from early development through release.  
-- Made architectural decisions around design, state management, rendering strategy, and performance.  
-- Collaborated with clients and remote teams to translate requirements into scalable, maintainable UI solutions.  
-
----
-
-## Engineering Philosophy
-- Design UI architectures that are clear, testable, and reliable in production.  
-- Favor functional programming and immutable state for predictable behavior.  
-- Focus on real performance bottlenecks before optimizing.  
-- Build systems that scale in complexity without becoming hard to understand.  
-- Prioritize readable, maintainable code over heavy reliance on hooks or third-party abstractions.  
+**Front-End Engineer — Independent / Contract** *(2020 – Present)*  
+- Delivered multiple front-end and full-stack projects end-to-end.
+- Made architectural decisions on state management, rendering strategy, and performance.
+- Collaborated with clients and remote teams to ship scalable UI solutions.
 
 ---
-
-## Languages
-- Indonesian (native), English (professional proficiency)
