@@ -1,71 +1,55 @@
 # Edwin Julian Sinaga
 **Front-End Engineer (React / Next.js / TypeScript)**  
 Indonesia · Open to Remote  
-📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev · linkedin.com/in/edjulsin
+📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev · linkedin.com/in/edjulsin  
 
 ---
 
 ## Summary
-Front-End Engineer with 4+ years of hands-on experience building and shipping data-driven web applications with React, Next.js, and TypeScript. I focus on UI architecture, performance, and maintainability, and I enjoy working on problems where state, data flow, and user experience intersect. Comfortable owning features end to end and working independently in remote, async teams.
+Front-End Engineer with 4+ years of experience building data-driven web applications using React, Next.js, and TypeScript. Skilled at designing maintainable, performant UI architectures and solving complex problems at the intersection of state, data flow, and user experience. Comfortable owning features end-to-end and thriving in remote, asynchronous teams.  
 
 ---
 
 ## Technical Skills
 - **Frontend:** React, Next.js (App Router), TypeScript, JavaScript (ES6+), HTML5 Canvas  
-- **State & Data:** RxJS, complex state modeling, reactive data flows  
-- **UI & Visualization:** D3.js, Radix UI, Tailwind CSS, SASS, responsive design, Figma  
-- **Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker  
-- **Tooling:** Vite, Webpack, Git, GitHub Actions  
-- **Quality:** SEO (JSON-LD, Core Web Vitals), accessibility, performance tuning, Vitest  
+- **State & Data:** RxJS, Context, complex state modeling, reactive data flows  
+- **UI & Visualization:** D3.js, Radix UI, Tailwind CSS/SASS, Figma, responsive design  
+- **Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker, Express  
+- **Tooling & Quality:** Git, GitHub Actions, Vercel, Vite, Webpack, Vitest, SEO (JSON-LD, Core Web Vitals), accessibility, performance tuning  
 
 ---
 
 ## Selected Projects
 
-### **Katt Interior**
-*Next.js, TypeScript, Supabase, Tailwind CSS, Radix UI*  
+### **Katt Interior** — *Next.js, TypeScript, Supabase, Tailwind CSS, Radix UI*  
+- Delivered a production-ready platform for a real client, owning architecture, authentication, CI/CD, and deployment.  
+- Built a custom drag-and-drop blog editor enabling non-technical users to manage content independently.  
+- Optimized image-heavy pages using SSR, ISR, and deliberate image strategies for fast load times.  
+- Ensured long-term stability with unit, integration, and browser-level tests and strong SEO foundations.  
 
-- Delivered a production-ready Next.js platform for a real client, owning the project from initial setup through deployment  
-- Optimized performance for image-heavy pages using SSR, ISR, and deliberate image optimization strategies  
-- Implemented secure authentication and authorization with Supabase Auth and database-level Row-Level Security (RLS)  
-- Designed and built a custom drag-and-drop blog editor that enables non-technical users to manage content independently  
-- Established strong SEO foundations, including JSON-LD structured data, metadata, Open Graph tags, and automated sitemap generation  
-- Wrote and maintained unit, integration, and browser-level tests to ensure long-term stability of core features
+GitHub: [Katt Interior](https://github.com/edjulsin/kattinterior) · Live: [kattinterior.vercel.app](https://kattinterior.vercel.app/)  
 
-GitHub: https://github.com/edjulsin/kattinterior  
-Live: https://kattinterior.vercel.app/
+### **Krypton** — *React, RxJS, D3.js, Webpack, HTML5 Canvas*  
+- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams using RxJS.  
+- Implemented lazy loading, drag/zoom, and multi-chart support using D3.js for smooth interaction with thousands of data points across time zones.  
+- Built custom UI primitives and a date/time picker for dynamic chart exploration.  
 
----
-
-### **Krypton**
-*React, RxJS, Webpack, D3.js, HTML5 Canvas*  
-
-- Designed and built a real-time crypto trading dashboard inspired by TradingView-style charts  
-- Used RxJS to model live market data streams and keep the UI responsive under frequent updates  
-- Built custom UI primitives, including a high-performance color picker and popup system  
-- Implemented interactive, responsive charts with D3.js, including correct handling of multiple time zones  
-
-GitHub: https://github.com/edjulsin/krypton  
-Live: https://krypton-navy.vercel.app/
-
----
-
-## Engineering Focus
-- Designing clear, testable, and maintainable UI architecture  
-- Applying functional programming principles and immutable state patterns  
-- Performance-first thinking, especially for data-heavy and interactive interfaces  
-- Building systems that scale in complexity without becoming hard to reason about
+GitHub: [Krypton](https://github.com/edjulsin/krypton) · Live: [krypton-navy.vercel.app](https://krypton-navy.vercel.app/)  
 
 ---
 
 ## Experience
 
-### **Front-End Engineer — Independent / Contract**
-*2020 – Present*  
-
-- Worked on multiple production front-end projects from early development through release  
-- Made day-to-day architectural decisions around design, state management, rendering strategy, and performance  
-- Worked closely with non-technical clients during initial design and development to translate requirements into practical UI solutions
-- Collaborated asynchronously in remote setups using Git-based workflows and code reviews  
+### **Front-End Engineer — Independent / Contract** *(2020 – Present)*  
+- Contributed to multiple production front-end and full-stack projects from early development through release.  
+- Made architectural decisions around design, state management, rendering strategy, and performance.  
+- Collaborated with clients and remote teams to translate requirements into scalable, maintainable UI solutions.  
 
 ---
+
+## Engineering Philosophy
+- Design UI architectures that are clear, testable, and reliable in production.  
+- Favor functional programming and immutable state for predictable behavior.  
+- Focus on real performance bottlenecks before optimizing.  
+- Build systems that scale in complexity without becoming hard to understand.  
+- Prioritize readable, maintainable code over heavy reliance on hooks or third-party abstractions.  
