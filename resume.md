@@ -1,7 +1,7 @@
 # Edwin Julian Sinaga
 **Front-End Engineer (React / Next.js / TypeScript)**  
 Indonesia · Open to Remote  
-📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev · linkedin.com/in/edjulsin  
+📧 edjulsin@gmail.com · github.com/edjulsin · edjulsin.dev
 
 ---
 
@@ -30,7 +30,7 @@ Front-End Engineer with 4+ years of experience building data-driven web applicat
 GitHub: [Katt Interior](https://github.com/edjulsin/kattinterior) · Live: [kattinterior.vercel.app](https://kattinterior.vercel.app/)  
 
 ### **Krypton** — *React, RxJS, D3.js, Webpack, HTML5 Canvas*  
-- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams.  
+- Designed a real-time crypto trading dashboard with TradingView-style charts handling live market data streams using RxJS websocket.  
 - Implemented lazy loading, drag/zoom, and multi-chart support using D3.js for smooth interaction with thousands of data points across time zones.  
 - Built custom UI primitives and a date/time picker for dynamic chart exploration.  
 
