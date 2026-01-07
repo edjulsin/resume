@@ -20,18 +20,18 @@ Front-End Engineer with **4+ years of experience** building performant, data-dri
 
 ## Selected Projects
 
-### **Krypton** ([GitHub](https://github.com/edjulsin/krypton) · [Live](https://krypton-navy.vercel.app))  
-*React, RxJS, D3.js, HTML5 Canvas*
-
-- Developed a real-time crypto dashboard with TradingView-style interactive charts.
-- Handled live data streams using RxJS, lazy loading, multi-chart drag/zoom, and smooth interaction with thousands of data points.
-
 ### **Katt Interior** ([GitHub](https://github.com/edjulsin/kattinterior) · [Live](https://kattinterior.vercel.app))  
 *Next.js, TypeScript, Supabase, Tailwind CSS*
 
 - Built a production-ready platform, owning architecture, auth, CI/CD, SEO, testing, and deployment.
 - Created a custom drag-and-drop blog editor for non-technical users.
 - Optimized image-heavy pages using compression and SSR/ISR to improve load times.
+
+### **Krypton** ([GitHub](https://github.com/edjulsin/krypton) · [Live](https://krypton-navy.vercel.app))  
+*React, RxJS, D3.js, HTML5 Canvas*
+
+- Developed a real-time crypto dashboard with TradingView-style interactive charts.
+- Handled live data streams using RxJS, lazy loading, multi-chart drag/zoom, and smooth interaction with thousands of data points.
 
 ---
 
