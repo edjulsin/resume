@@ -38,6 +38,6 @@ Front-End Engineer with 4+ years of experience in React, Next.js, and TypeScript
 
 ## Technical Skills
 **Frontend:** React, Next.js (App Router), TypeScript, JavaScript, HTML5 Canvas, RxJS  
-**UI & Visualization:** D3.js, Tailwind CSS, SASS, Radix UI, Figma
+**UI & Visualization:** D3.js, Tailwind CSS, SASS, Radix UI, Figma  
 **Backend & Platform:** Supabase (PostgreSQL, Auth, RLS, Storage), REST APIs, Docker, Vercel  
 **Tooling & Quality:** Git, GitHub Actions, Vite, Webpack, Vitest, SEO (JSON-LD, Core Web Vitals)
